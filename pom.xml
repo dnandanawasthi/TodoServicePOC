@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.todoservice.poc</groupId>
-	<artifactId>TodoServicePOC</artifactId>
+	<artifactId>todo-service-poc</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 
